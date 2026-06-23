@@ -81,21 +81,21 @@ const blogPosts = [
         title:
             "TypeScript Explained: What It Is, Why It Matters, and How to Master It",
         image: "/images/blog1.png",
-        link: "https://jsmastery.com/blog/typescript-explained-what-it-is-why-it-matters-and-how-to-master-it",
+        link: "https://www.geeksforgeeks.org/typescript/typescript-tutorial/",
     },
     {
         id: 2,
         date: "Aug 28, 2025",
         title: "The Ultimate Guide to Mastering Three.js for 3D Development",
         image: "/images/blog2.png",
-        link: "https://jsmastery.com/blog/the-ultimate-guide-to-mastering-three-js-for-3d-development",
+        link: "https://threejsresources.com/learn?utm_source=chatgpt.com",
     },
     {
         id: 3,
         date: "Aug 15, 2025",
         title: "The Ultimate Guide to Mastering GSAP Animations",
         image: "/images/blog3.png",
-        link: "https://jsmastery.com/blog/the-ultimate-guide-to-mastering-gsap-animations",
+        link: "https://dev.to/aerospace-prog/the-ultimate-guide-to-mastering-gsap-animations-43kh?utm_source=chatgpt.com",
     },
 ];
 
@@ -476,13 +476,17 @@ const ABOUT_LOCATION = {
             kind: "file",
             fileType: "txt",
             position: "top-60 left-5",
-            subtitle: "Meet the Developer Behind the Code",
-            image: "/images/nk.jpg",
+            subtitle: "Meet the man himself",
+            image: "/images/kk.png",
             description: [
-                "Hey! I’m Nhlanhla 👋, a web developer and lifelong learner who enjoys turning ideas into digital products that solve real problems.",
-                "I'm passionate about modern web technologies, AI, and building applications that are intuitive, scalable, and genuinely useful to the people who use them.",
-                "I’m always exploring something new—whether it's a development framework, a business idea, or an emerging technology that could change the way we work and create.",
-                "Outside of coding, you'll usually find me researching and planning my next project, diving down a technology rabbit hole, or sketching out ambitious ideas that somehow turn into full-blown applications 😅",
+                "Hey! I’m Nhlanhla 👋. I love creating things, solving interesting problems, and learning something new every single day.",
+
+                "I’m naturally drawn to technology, innovation, and big ideas. Whether it’s AI, digital products, or the next exciting trend, I enjoy exploring how things work and how they can make life a little better.",
+
+                "Curiosity drives a lot of what I do. I’m constantly experimenting, learning, and finding new ways to turn concepts into real-world solutions.",
+
+                "Most of the time, you'll find me planning my next project, researching something that caught my attention, or chasing an idea that starts small and somehow grows into a full-blown obsession 😄.",
+,
             ],
         },
     ],
